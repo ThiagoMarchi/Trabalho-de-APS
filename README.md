@@ -1,3 +1,7 @@
+//Trabalho de lógica de programação
+//Alunos Thiago Marchi, Kleber Alves, Laryssa Araujo e Mateus Donaire.
+//RA 21289253, 21304275, 21310055, 21286869.
+
 package JDV;
 
 import java.awt.Color;
